@@ -1,5 +1,5 @@
 # NFC record Application
-A simple NFC parking record mobile application based on Android <br>
+A simple NFC reader for record parking location mobile application based on Android <br>
 
 # Function
 - Database can record username and password <br>
